@@ -1,4 +1,4 @@
-# CLAUDE.md — Claude MVP Kit
+# CLAUDE.md — MVP OS
 
 This repo is a Product Operating System, not a code sample. When working in this repo, follow the rules below — they exist so an MVP gets built in one sitting without the common failure modes (over-scoped stack, unverified layers stacking on each other, a live deploy attempted on a broken build).
 

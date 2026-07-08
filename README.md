@@ -1,6 +1,6 @@
-# Claude MVP Kit
+# MVP OS
 
-![Claude MVP Kit](assets/banner.png)
+![MVP OS](assets/banner.png)
 
 **An AI Product Operating System for building MVPs with Claude Code.**
 
@@ -20,7 +20,7 @@ Clone it, and you can build your own MVP the same day.
 ## Repository Tour
 
 ```
-claude-mvp-kit/
+mvp-os/
 ├── .claude/
 │   └── skills/          14 skills: research, persona, competitor, lean-canvas,
 │                         prd, roadmap, user-story, ui, build, frontend,

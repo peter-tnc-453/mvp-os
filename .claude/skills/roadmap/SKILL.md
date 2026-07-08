@@ -6,9 +6,9 @@ metadata:
   phase: define
   category: planning
   composed_from: [define-prioritization-framework, foundation-okr-writer, define-opportunity-tree]
-  author: claude-mvp-kit (built on product-on-purpose/pm-skills, Apache-2.0)
+  author: mvp-os (built on product-on-purpose/pm-skills, Apache-2.0)
 ---
-<!-- claude-mvp-kit | composed from PM-Skills (https://github.com/product-on-purpose/pm-skills, Apache 2.0) -->
+<!-- mvp-os | composed from PM-Skills (https://github.com/product-on-purpose/pm-skills, Apache 2.0) -->
 # Roadmap
 
 Roadmap sits between PRD and UI in the pipeline: **Idea → Research → PRD → Roadmap → UI → Code → Deploy**. An MVP built in a day or a week can't build every feature in the PRD at once — this skill decides *what order*, with a visible reason, not a gut call.

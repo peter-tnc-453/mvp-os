@@ -6,9 +6,9 @@ metadata:
   phase: discover
   category: research
   composed_from: [define-problem-statement, define-jtbd-canvas, discover-market-sizing, discover-interview-synthesis]
-  author: claude-mvp-kit (built on product-on-purpose/pm-skills, Apache-2.0)
+  author: mvp-os (built on product-on-purpose/pm-skills, Apache-2.0)
 ---
-<!-- claude-mvp-kit | composed from PM-Skills (https://github.com/product-on-purpose/pm-skills, Apache 2.0) -->
+<!-- mvp-os | composed from PM-Skills (https://github.com/product-on-purpose/pm-skills, Apache 2.0) -->
 # Research
 
 Research is the first station on the MVP pipeline: **Idea → Research → PRD → UI → Code → Deploy**. Its job is to turn a one-line idea into three grounded artifacts before anyone writes a spec — a **problem statement**, a **JTBD (jobs-to-be-done) canvas**, and a **market sanity check**. Skip this stage and the PRD ends up specifying a solution to a problem nobody has confirmed.
